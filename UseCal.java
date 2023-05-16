@@ -10,6 +10,8 @@ public class UseCal {
 		System.out.println(c.add(10, 5));
 		System.out.println(c.sub());
 		c.multi(1, 2, 3);
+		System.out.println("");
+		System.out.println("");
 		c.div();
 	}
 }
